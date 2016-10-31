@@ -1,0 +1,29 @@
+a. 
+Generally, the bigger the hash table size, the shorter the maximum length. With small hash table size, the chain length distribution is similar to normal distribution (more chains of medium length). When size is large, chain length tends to be short, which means, less number of chains when length increases.
+
+
+Size		Maximum Length of Chains
+85711		25
+100000		36
+214283		16
+400000		16
+400837		12
+857137		9
+857144		9
+
+b.
+Yes, comparing hashtable size 85711 and 100000, 85711 is smaller but has better distribution (shorter chains). Comparing size 400000 and 400837, size is similar but prime size has shorter chains.
+
+c.
+size 712739
+maximum chain length = 9
+70.02% slots are used.
+
+d.
+Hash table performance can differ a lot with different but close hash table size. It takes much longer to search when has longer chains. 
+
+e.
+Hash and ListSearch. Hash is used to calculate the slot and ListSearch is used when inserting. The longer the chains, the more time is cost by searching.
+
+f.g.
+ListSearch time is significantly different by comparing two profs, and time by other functions is similar. Therefore, It is important to choose an appropriate size and hash function to make chain shorter.

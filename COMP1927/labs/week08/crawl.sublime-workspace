@@ -1,0 +1,456 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"handle"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"v",
+				"v"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "html.c",
+			"settings":
+			{
+				"buffer_size": 9817,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "crawl.c",
+			"settings":
+			{
+				"buffer_size": 3768,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "graph.h",
+			"settings":
+			{
+				"buffer_size": 366,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "graph.c",
+			"settings":
+			{
+				"buffer_size": 3423,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "url_file.c",
+			"settings":
+			{
+				"buffer_size": 13181,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 192.0,
+		"last_filter": "Package Control: re",
+		"selected_items":
+		[
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/boxian/cs1927/labs/week08"
+	],
+	"file_history":
+	[
+		"/home/boxian/cs1927/labs/week08/crawl.c",
+		"/home/boxian/cs1927/labs/week08/queue.c",
+		"/home/boxian/cs1927/labs/week08/url_file.c",
+		"/home/boxian/cs1927/labs/week07/Map.c",
+		"/home/boxian/cs1927/labs/week07/conn.c",
+		"/home/boxian/cs1927/labs/week08/graph.c",
+		"/home/boxian/cs1927/ass2/view/HunterView.c",
+		"/home/boxian/cs1927/ass2/view/HunterView.h",
+		"/home/boxian/cs1927/ass2/view/Map.c",
+		"/home/boxian/cs1927/ass2/view/Map.h",
+		"/home/boxian/cs1927/ass2/view/Places.c",
+		"/home/boxian/cs1927/ass2/view/Places.h",
+		"/home/boxian/cs1927/ass2/view/testDracView.c",
+		"/home/boxian/cs1927/ass2/view/testGameView.c",
+		"/home/boxian/cs1927/ass2/view/testHunterView.c",
+		"/home/boxian/cs1927/ass2/view/Globals.h",
+		"/home/boxian/cs1927/ass2/view/GameView.h",
+		"/home/boxian/cs1927/ass2/view/GameView.c",
+		"/home/boxian/cs1927/ass2/view/Game.h",
+		"/home/boxian/cs1927/ass2/view/DracView.h",
+		"/home/boxian/cs1927/ass2/view/DracView.c",
+		"/home/boxian/cs1927/labs/week07/Places.c",
+		"/home/boxian/cs1927/labs/week07/Places.h",
+		"/home/boxian/cs1927/labs/week07/Map.h",
+		"/home/boxian/cs1927/labs/week07/pl.c",
+		"/home/boxian/cs1927/labs/int binary_search",
+		"/home/boxian/cs1927/labs/week07/Map2.c",
+		"/home/boxian/cs1927/lectures/week06/neighbours/alternatives.c",
+		"/home/boxian/cs1927/lectures/week06/adjListStorage.c",
+		"/home/boxian/cs1927/lectures/week06/connected/conn1.c",
+		"/home/boxian/cs1927/lectures/week06/connected/alternatives.c",
+		"/home/boxian/Downloads/adjListStorage.c",
+		"/home/boxian/cs1927/labs/week07/euro.c",
+		"/home/boxian/cs1927/labs/prac1/q1.c",
+		"/home/boxian/cs1927/lectures/week06/queue/Queue.c",
+		"/home/boxian/cs1927/lectures/week06/queue/test.c",
+		"/home/boxian/cs1927/lectures/week06/recursion/fac.c",
+		"/home/boxian/cs1927/lectures/week06/recursion/Makefile",
+		"/home/boxian/cs1927/lectures/week06/recursion/max.c",
+		"/home/boxian/cs1927/lectures/week06/recursion/fac1.c",
+		"/home/boxian/cs1927/lectures/queue/Makefile",
+		"/home/boxian/cs1927/labs/Prac1/q1.c",
+		"/home/boxian/cs1927/lectures/set/Set-template.c",
+		"/home/boxian/cs1927/lectures/set/Set-array.c",
+		"/home/boxian/cs1927/lectures/set/Set-flex-array.c",
+		"/home/boxian/cs1927/lectures/set/Set-list.c",
+		"/home/boxian/cs1927/lectures/set/Set.h",
+		"/home/boxian/cs1927/calculator.c",
+		"/home/boxian/cs1927/labs/week05/Queue.c",
+		"/home/boxian/cs1927/labs/week05/Queue.c.bad",
+		"/home/boxian/cs1927/labs/week05/Queue.h",
+		"/home/boxian/cs1927/allocator.c",
+		"/home/boxian/cs1927/lime.c",
+		"/home/boxian/cs1927/ass1/allocator.c"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"GetNextURL",
+			"html",
+			"handle",
+			"url_fgets",
+			"url_gets",
+			"buffer",
+			"position",
+			"feof",
+			"url_feof",
+			"GetNextURL",
+			"memset",
+			"url_fopen",
+			"memset",
+			"DON, SWANSEA",
+			"Connections",
+			"connections",
+			"Item"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "html.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1441,
+								1441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1140.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "crawl.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2664,
+								2664
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1492.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "graph.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "graph.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2374,
+								2374
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "url_file.c",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 13181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9778,
+								9778
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6538.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "crawl.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

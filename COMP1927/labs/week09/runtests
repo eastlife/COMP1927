@@ -1,0 +1,14 @@
+#!/bin/sh
+
+for insert in L A B R S V
+do
+	for order in A D P R
+	do
+		for size in 100 200 400
+		do
+			echo ""
+			echo "Test: ./tlab $size $order $insert"
+			echo "t" | ./tlab $size $order $insert | grep -v Tree
+		done
+	done
+done
